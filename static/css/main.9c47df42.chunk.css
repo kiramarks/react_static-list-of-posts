@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.app__header{text-align:center}.app__post-list{margin-top:20px;display:grid;grid-template-columns:repeat(4,300px);grid-gap:20px;justify-content:center}.post{padding:0 15px;border:2px solid #8a2be2;background-color:rgba(230,230,250,.4);border-radius:10px}.post__user{display:flex;flex-direction:column;text-align:right}.post__comment{margin:10px 0;padding:0 10px;border-radius:10px;background-color:#e6e6fa}.post__comment:first-child{margin-top:30px}.user__name{font-weight:700;margin:0}
+/*# sourceMappingURL=main.9c47df42.chunk.css.map */
